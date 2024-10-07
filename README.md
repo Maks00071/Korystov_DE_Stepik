@@ -1,6 +1,6 @@
 # Korystov_DE_Stepik
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Проект "My+RoadMap+to+DE"+--------------->+Data+Engineer)](https://git.io/typing-svg)
-# Проект "RoadMap DE"
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&size=30&center=true&lines=Проект+"My+RoadMap+to+DE";"Да+осилит+дорогу+Идущий!")](https://git.io/typing-svg)
 ___________________________________________________________
 ## :clipboard: Описание проекта
 Данный проект описывает путь DE (Data Engineer) от момента `"я что то слышал про таблички ... "` до `"Разработал и реализовал DWH по модели Data Vault2.0"`. Путь пустоянно пополняется технологиями, книгами.
@@ -13,5 +13,6 @@ ___________________________________________________________
 -  __Стрессоустойчивость__ => не всегда все ижет гладко ))), да и когда все идет гладко - это то же подозрительно
 __________________________________________________________
 
-
+## :e-mail: Мои контакты:
+:point_right: https://t.me/engineer_maks999
 
